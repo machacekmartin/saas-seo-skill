@@ -1,4 +1,4 @@
-# seo-foundation
+# saas-seo-foundation-skill
 
 A Claude Code skill encoding battle-tested SEO setup for a SaaS website. Distilled from a full audit that ripped out cargo-cult meta tags and rebuilt the layout / sitemap / static files around what crawlers and unfurl scrapers actually consume in 2026.
 
